@@ -1,3 +1,0 @@
-/home/jules/Documents/OpenCV/pedestrian/CMakeFiles/rebuild_cache.dir
-/home/jules/Documents/OpenCV/pedestrian/CMakeFiles/hello.dir
-/home/jules/Documents/OpenCV/pedestrian/CMakeFiles/edit_cache.dir
